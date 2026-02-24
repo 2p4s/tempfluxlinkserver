@@ -1,3 +1,4 @@
+![TempFlux Logo](tempfluxappicon_256.png)
 # TempFluxLink ⚡
 
 **The official PC telemetry server for the TempFlux mobile app.**
