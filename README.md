@@ -1,5 +1,5 @@
-![TempFlux Logo](tempfluxappicon_256.png)
 # TempFluxLink ⚡
+![TempFlux Logo](tempfluxappicon_256.png)
 
 **The official PC telemetry server for the TempFlux mobile app.**
 
